@@ -1,0 +1,75 @@
+[{
+    "prompt": 'I have spreadsheet with ESG data about a company in csv format.
+    These are the column headings:
+    Company name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK
+    
+    This is the data:
+    StellarTech Solutions,19,18,1,94.74,5.26,11.12,"39.000,00","32.000,00"
+    
+    Can you come up with 5 suggestions to improve the companies ESG data?
+    Write a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas to intitiatives, that the company can do to reach the goal (seperate with a comma).
+    The answer needs to be in Danish.',
+    "completion": 'Øge andelen af kvindelige medarbejdere:
+    Beskrivelse: For at forbedre kønsmæssig mangfoldighed kan virksomheden arbejde på at øge antallet af kvindelige medarbejdere.
+    Nuværende data: Antal kvindelige medarbejdere: 18
+    Specifikt mål: Øge antallet af kvindelige medarbejdere til 25
+    Initiativer:
+    a. Gennemfør målrettede rekrutteringskampagner for at tiltrække flere kvindelige ansøgere.
+    b. Implementer fleksible arbejdsordninger og politikker, der fremmer work-life balance og tiltrækker kvinder.
+    c. Skab et inkluderende og støttende arbejdsmiljø, hvor alle medarbejdere føler sig velkomne og værdsatte.
+    
+    Reducere forskellen i medianløn mellem mænd og kvinder:
+    Beskrivelse: For at fremme ligestilling bør virksomheden fokusere på at mindske lønforskellen mellem mænd og kvinder.
+    Nuværende data: Medianløn for mænd: 39.000,00 DKK, Medianløn for kvinder: 32.000,00 DKK
+    Specifikt mål: Reducere lønforskellen mellem kønnene til 5%
+    Initiativer:
+    a. Gennemfør en lønanalyse for at identificere eventuelle uligheder og skabe transparens omkring lønstrukturen.
+    b. Implementer politikker og procedurer, der sikrer lige løn for lige arbejde.
+    c. Etabler mentor- og træningsprogrammer for kvindelige medarbejdere for at støtte deres karriereudvikling.
+    
+    Reducere sygefravær pr. medarbejder:
+    Beskrivelse: For at forbedre medarbejdernes sundhed og trivsel bør virksomheden arbejde på at reducere sygefraværet pr. medarbejder.
+    Nuværende data: Sygefravær pr. medarbejder: 11,12 dage
+    Specifikt mål: Reducere sygefraværet pr. medarbejder til 8 dage
+    Initiativer:
+    a. Implementer et sundhedsfremmende program, der tilbyder information om sund livsstil og forebyggelse af sygdomme.
+    b. Skab et støttende arbejdsmiljø med fokus på trivsel, hvor medarbejderne føler sig værdsatte og har adgang til nødvendige ressourcer.
+    c. Etabler politikker, der fremmer arbejdsmiljøet, som f.eks. fleksible arbejdstider og muligheder for hjemmearbejde.'
+},{
+    "prompt": 'I have spreadsheet with ESG data about a company in csv format.
+    These are the column headings:
+    Company name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK
+    
+    This is the data:
+    SpectraLabs Research,62,13,49,"20,97","79,03","4,67","44.000,00","39.000,00"
+    
+    Can you come up with 5 suggestions to improve the companies ESG data?
+    Write a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas to intitiatives, that the company can do to reach the goal (seperate with a comma).
+    The answer needs to be in Danish.',
+    "completion": 'Øge andelen af kvindelige medarbejdere:
+    Beskrivelse: For at fremme kønsmæssig mangfoldighed kan virksomheden arbejde på at øge antallet af kvindelige medarbejdere.
+    Nuværende data: Antal kvindelige medarbejdere: 13
+    Specifikt mål: Øge antallet af kvindelige medarbejdere til 20
+    Initiativer:
+    a. Samarbejd med uddannelsesinstitutioner og opfordr kvinder til at vælge videnskabelige og tekniske fagområder.
+    b. Skab en inkluderende arbejdskultur, der tiltrækker og fastholder kvindelige talenter.
+    c. Tilbyd mentorprogrammer og karrieremuligheder, der støtter kvindelige medarbejdere i deres faglige udvikling.
+    
+    Forbedre ligestilling i lønstrukturen:
+    Beskrivelse: Virksomheden bør arbejde på at reducere lønforskellen mellem mænd og kvinder og skabe lige lønvilkår for alle medarbejdere.
+    Nuværende data: Medianløn for mænd: 44.000,00 DKK, Medianløn for kvinder: 39.000,00 DKK
+    Specifikt mål: Reducere lønforskellen mellem kønnene til 5%
+    Initiativer:
+    a. Gennemfør en løngennemgang for at identificere og rette eventuelle uligheder i lønstrukturen.
+    b. Implementer lønpolitikker, der fokuserer på lige løn for lige arbejde og fremmer gennemsigtighed omkring lønforholdene.
+    c. Sikr en fair forfremmelsesproces, der bygger på kvalifikationer og resultater snarere end køn.
+    
+    Reducere sygefravær pr. medarbejder:
+    Beskrivelse: For at fremme medarbejdernes sundhed og trivsel bør virksomheden fokusere på at reducere sygefraværet pr. medarbejder.
+    Nuværende data: Sygefravær pr. medarbejder: 4,67 dage
+    Specifikt mål: Reducere sygefraværet pr. medarbejder til 3 dage
+    Initiativer:
+    a. Implementer sundhedsfremmende programmer, herunder fysisk aktivitet og mental sundhedsstøtte.
+    b. Skab et arbejdsmiljø, der fremmer trivsel, work-life balance og en kultur med åben kommunikation om helbredsmæssige udfordringer.
+    c. Tilbyd fleksible arbejdsordninger og muligheder for fleksitid for at reducere arbejdsrelateret stress og forbedre arbejdslivsbalancen.'
+}]

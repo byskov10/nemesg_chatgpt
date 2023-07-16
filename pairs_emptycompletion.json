@@ -1,0 +1,266 @@
+[
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nStellarTech Solutions,19,18,1,94,74,5,26,11,12,39.000,00,32.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Øge ligestillingen mellem kønnene og fremme mangfoldighed i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 18, Antal mandlige ansatte: 1, Procentdel af kvindelige ansatte: 94,74%, Procentdel af mandlige ansatte: 5,26%
+        Specifikt mål: Øge antallet af mandlige ansatte til mindst 5 for at opnå en mere ligelig kønsfordeling.
+        Initiativer: Rekruttering af flere mandlige kandidater, opmuntre til mangfoldighed og inklusion i arbejdsmiljøet, tilbyde mentorordninger til kvindelige medarbejdere for at fremme deres karriereudvikling.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducer sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 11,12
+        Specifikt mål: Reducere sygefraværet til under 8 dage pr. medarbejder om året for at skabe et sundere arbejdsmiljø.
+        Initiativer: Implementering af sundheds- og velværeprogrammer, opfordring til regelmæssig motion og motion blandt medarbejdere, forbedring af arbejdspladsens ergonomi og trivsel.
+        
+        Lønlighed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 39.000, Medianløn for kvinder i DKK: 32.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 36.000 DKK.
+        Initiativer: Gennemføre lønrevisioner for at identificere og løse eventuelle løngap mellem kønnene, etablere gennemsigtige lønpolitikker og belønningsstrukturer, fremme kvindelige medarbejdere til ledelsespositioner."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nQuantumWave Industries,66,25,41,37,88,62,12,8,53,45.000,00,31.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 25, Antal mandlige ansatte: 41, Procentdel af kvindelige ansatte: 37,88%, Procentdel af mandlige ansatte: 62,12%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 35 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Aktivt rekruttere kvindelige kandidater, etablere inkluderende arbejdskultur og politikker, tilbyde ligestillingsuddannelse og træning til medarbejdere.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 8,53
+        Specifikt mål: Reducere sygefraværet til under 6 dage pr. medarbejder om året for at fremme et sundere arbejdsmiljø.
+        Initiativer: Implementering af sundhedsfremmende programmer, opmuntre til fysisk aktivitet og mental velvære, tilbyde fleksible arbejdstider og støtte til en god work-life balance.
+        
+        Lønlighed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 45.000, Medianløn for kvinder i DKK: 31.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 38.000 DKK.
+        Initiativer: Gennemgå og justere lønpolitikker for at sikre lige løn for lige arbejde, implementere transparens i lønfastsættelsesprocessen, etablere kvoter og mål for kvindelige ledere."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nNexusSoft Innovations,65,24,41,36,92,63,08,20,05,34.000,00,39.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 24, Antal mandlige ansatte: 41, Procentdel af kvindelige ansatte: 36,92%, Procentdel af mandlige ansatte: 63,08%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 30 for at opnå en mere ligelig kønsfordeling.
+        Initiativer: Udvikle en mangfoldigheds- og inklusionsstrategi, implementere rekrutterings- og ansættelsespolitikker, der fremmer ligestilling, tilbyde mentorordninger og karriereudviklingsmuligheder for kvindelige medarbejdere.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 20,05
+        Specifikt mål: Reducere sygefraværet til under 15 dage pr. medarbejder om året for at forbedre medarbejdernes sundhed og trivsel.
+        Initiativer: Etablere et sundheds- og velværeprogram, tilbyde fleksible arbejdstider og hjemmearbejdsordninger, fremme en kultur med arbejdslivsbalancerende aktiviteter.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 34.000, Medianløn for kvinder i DKK: 39.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for mænd til mindst 37.000 DKK.
+        Initiativer: Gennemgå lønstrukturen for at identificere og eliminere eventuelle løngab mellem kønnene, implementere lønrevisioner, der sikrer retfærdig og lige lønfastsættelse."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nSolaraTech Systems,60,18,42,30,00,70,00,8,44,44.000,00,40.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 18, Antal mandlige ansatte: 42, Procentdel af kvindelige ansatte: 30,00%, Procentdel af mandlige ansatte: 70,00%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 25 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Aktivt rekruttere og opfordre kvindelige kandidater, implementere diversitets- og inklusionsprogrammer, tilbyde mentorordninger og karriereudviklingsmuligheder specielt rettet mod kvinder.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 8,44
+        Specifikt mål: Reducere sygefraværet til under 6 dage pr. medarbejder om året for at skabe et sundere og mere produktivt arbejdsmiljø.
+        Initiativer: Implementere wellness-programmer, fremme en kultur med fysisk og mental sundhed, tilbyde fleksible arbejdstider og arbejdspladsens trivselstiltag.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 44.000, Medianløn for kvinder i DKK: 40.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 42.000 DKK.
+        Initiativer: Gennemgå og revidere lønstrukturer for at sikre ligeløn, implementere lønrevisioner, der identificerer og retter eventuelle løngap mellem kønnene."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nOrion Dynamics,47,21,26,44,68,55,32,11,58,32.000,00,30.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 21, Antal mandlige ansatte: 26, Procentdel af kvindelige ansatte: 44,68%, Procentdel af mandlige ansatte: 55,32%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 28 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Aktivt rekruttere kvindelige kandidater, etablere mentorprogrammer og netværk for kvindelige medarbejdere, fremme en inkluderende arbejdskultur.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 11,58
+        Specifikt mål: Reducere sygefraværet til under 8 dage pr. medarbejder om året for at forbedre medarbejdernes sundhed og produktivitet.
+        Initiativer: Implementere sundhedsfremmende programmer, tilbyde fleksible arbejdstider og arbejdspladsens trivselsinitiativer, fremme en god work-life balance.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 32.000, Medianløn for kvinder i DKK: 30.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 31.500 DKK.
+        Initiativer: Gennemgå og revidere lønstrukturer for at eliminere eventuelle løngap mellem kønnene, sikre gennemsigtighed og retfærdighed i lønfastsættelsen."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nCybertech Ventures,33,4,29,12,12,87,88,10,26,44.000,00,29.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 4, Antal mandlige ansatte: 29, Procentdel af kvindelige ansatte: 12,12%, Procentdel af mandlige ansatte: 87,88%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 10 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Implementere en inkluderende rekrutteringsproces, fremme kvindelige rollemodeller og mentorer, tilbyde kønsfølsom træning og uddannelse.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 10,26
+        Specifikt mål: Reducere sygefraværet til under 7 dage pr. medarbejder om året for at forbedre medarbejdernes sundhed og produktivitet.
+        Initiativer: Etablere sundheds- og trivselsprogrammer, opfordre til en afbalanceret arbejdslivsstil, fremme en støttende og fleksibel arbejdskultur.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 44.000, Medianløn for kvinder i DKK: 29.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 35.000 DKK.
+        Initiativer: Gennemgå og justere lønstrukturer for at sikre ligeløn, udføre lønrevisioner for at identificere og rette eventuelle løngap mellem kønnene."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nElixirGen Pharmaceuticals,5,2,3,40,00,60,00,6,48,37.000,00,38.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 2, Antal mandlige ansatte: 3, Procentdel af kvindelige ansatte: 40,00%, Procentdel af mandlige ansatte: 60,00%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 3 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Implementere en inkluderende rekrutteringsstrategi, etablere et ligestillingsudvalg, fremme mangfoldighedssensibilisering og træning.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 6,48
+        Specifikt mål: Reducere sygefraværet til under 5 dage pr. medarbejder om året for at fremme medarbejdernes sundhed og trivsel.
+        Initiativer: Fremme en sundhedsfremmende arbejdskultur, tilbyde arbejdspladsens velværeprogrammer, implementere ergonomiske foranstaltninger på arbejdspladsen.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 37.000, Medianløn for kvinder i DKK: 38.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for mænd til mindst 38.000 DKK.
+        Initiativer: Gennemgå og justere lønpolitikker for at sikre lige lønfastsættelse, implementere gennemsigtige lønrevisioner, der eliminerer eventuelle løngap mellem kønnene."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nSpectraLabs Research,62,13,49,20,97,79,03,4,67,44.000,00,39.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 13, Antal mandlige ansatte: 49, Procentdel af kvindelige ansatte: 20,97%, Procentdel af mandlige ansatte: 79,03%
+        Specifikt mål: Øge antallet af kvindelige ansatte til mindst 20 for at skabe en mere ligelig kønsfordeling.
+        Initiativer: Implementere en diversitets- og inklusionsstrategi, opfordre til kvindelige kandidater ved rekruttering, tilbyde træning og udviklingsmuligheder for kvindelige medarbejdere.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 4,67
+        Specifikt mål: Reducere sygefraværet til under 4 dage pr. medarbejder om året for at forbedre medarbejdernes sundhed og produktivitet.
+        Initiativer: Fremme en sundhedsfremmende kultur, tilbyde træning i stresshåndtering og velvære, etablere fleksible arbejdsordninger og støtteordninger.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 44.000, Medianløn for kvinder i DKK: 39.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 42.000 DKK.
+        Initiativer: Gennemgå lønstrukturen for at identificere og adressere eventuelle løngap mellem kønnene, implementere gennemsigtighed i lønfastsættelsen og evaluering af lønrevisioner."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nHelios Robotics,19,18,1,94,74,5,26,20,53,47.000,00,37.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": "Mangfoldighed og ligestilling:
+        Beskrivelse: Fremme ligestilling mellem kønnene og øge mangfoldigheden i virksomheden.
+        Nuværende data: Antal kvindelige ansatte: 18, Antal mandlige ansatte: 1, Procentdel af kvindelige ansatte: 94,74%, Procentdel af mandlige ansatte: 5,26%
+        Specifikt mål: Øge antallet af mandlige ansatte til mindst 5 for at opnå en mere ligelig kønsfordeling.
+        Initiativer: Aktivt rekruttere mandlige kandidater, etablere en inkluderende arbejdskultur, fremme ligestillingsinitiativer og workshops.
+        
+        Fravær og arbejdsvilkår:
+        Beskrivelse: Reducere sygefraværet og forbedre arbejdsvilkårene for medarbejderne.
+        Nuværende data: Sygefravær i dage pr. medarbejder om året: 20,53
+        Specifikt mål: Reducere sygefraværet til under 15 dage pr. medarbejder om året for at fremme medarbejdernes sundhed og produktivitet.
+        Initiativer: Implementere et sundheds- og trivselsprogram, tilbyde ergonomiske arbejdsmiljøer, fremme mentalt velvære og balance mellem arbejde og privatliv.
+        
+        Løngleichhed:
+        Beskrivelse: Sikre ligeløn mellem kønnene for lige arbejde og ansvar.
+        Nuværende data: Medianløn for mænd i DKK: 47.000, Medianløn for kvinder i DKK: 37.000
+        Specifikt mål: Opnå ligeløn mellem kønnene ved at øge medianlønnen for kvinder til mindst 40.000 DKK.
+        Initiativer: Gennemgå og justere lønstrukturer for at eliminere eventuelle løngap mellem kønnene, sikre gennemsigtighed i lønfastsættelsen og løbende lønrevisioner."
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nAstralX Technologies,27,20,7,74,07,25,93,5,89,46.000,00,27.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nLuminaGlow Energy,68,28,40,41,18,58,82,15,48,38.000,00,40.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nInfinitiCraft Design,50,15,35,30,00,70,00,17,10,36.000,00,29.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nNebulaGenetics,47,28,19,59,57,40,43,18,54,43.000,00,38.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nSynapseLink Solutions,80,30,50,37,50,62,50,3,01,41.000,00,40.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nCosmoDrive Motors,52,26,26,50,00,50,00,7,18,35.000,00,33.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nEonCore Technologies,54,15,39,27,78,72,22,14,82,38.000,00,26.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nVertexVenture Capital,72,27,45,37,50,62,50,9,75,43.000,00,33.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nNovaScape Studios,37,13,24,35,14,64,86,16,32,39.000,00,28.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nSolarisX Solutions,33,1,32,3,03,96,97,16,43,26.000,00,29.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nHyperion Innovations,35,30,5,85,71,14,29,9,89,44.000,00,33.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nAstrumGen Biotech,12,11,1,91,67,8,33,10,78,29.000,00,34.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nQuantumScape Energy,59,15,44,25,42,74,58,2,57,41.000,00,35.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nStellara Systems,27,12,15,44,44,55,56,12,88,35.000,00,26.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nAstralPoint Logistics,49,25,24,51,02,48,98,19,26,36.000,00,30.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nCelestiaX Aerospace,51,3,48,5,88,94,12,5,73,33.000,00,26.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nElectraSoft Robotics,29,15,14,51,72,48,28,20,88,46.000,00,35.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nGenesisGenetics,48,12,36,25,00,75,00,18,95,43.000,00,36.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nNebulaNimbus Software,36,27,9,75,00,25,00,16,61,35.000,00,32.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nStellaris Health Solutions,54,26,28,48,15,51,85,19,41,32.000,00,38.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    },
+    {
+        "prompt": "\nI have a spreadsheet with ESG data about a company in csv format.\nThese are the column headings:\nCompany name,Number of employees,Female employees,Male employees,Female employees in percentage,Male employees in percentage,Sickness absence in days per employee for one year,Median salary for men in DKK,Median salary for women in DKK\n\nThis is the data:\nAuroraTech Robotics,61,27,34,44,26,55,74,17,57,46.000,00,36.000,00\n\nCan you come up with 5 suggestions to improve the company's ESG data?\nWrite a description of the improvement, the numeric data as it is now, and a specific numeric goal for the data. Come up with 3 ideas for initiatives that the company can do to reach the goal (separate with a comma).\n\nIn the answer, remove double quotations from numbers.\nThe answer needs to be in Danish.",
+        "completion": ""
+    }
+]
