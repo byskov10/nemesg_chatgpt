@@ -1,0 +1,23 @@
+import pandas as pd
+import random
+
+def generate_synthetic_data(num_companies=170):
+    data = []
+    
+    for _ in range(num_companies):
+        male_employees = random.randint(1, 75)
+        female_employees = random.randint(1, 75)
+        total_employees = male_employees + female_employees
+        male_percentage = (male_employees / total_employees) * 100
+        female_percentage = (female_employees / total_employees) * 100
+        sickness_absence = round(random.uniform(2, 10), 2)
+        male_salary = random.randint(20000, 60000)
+        female_salary = random.randint(20000, 60000)
+
+        data.append([female_employees, male_employees, female_percentage, male_percentage, sickness_absence, male_salary, female_salary])
+
+    df = pd.DataFrame(data, columns=["Female Employees", "Male Employees", "Female Employees in percentage", "Male Employees in percentage", "Sickness absence in days per employee for one year", "Median Salary for Men in DKK", "Median Salary for Women in DKK"])
+
+    df.to_csv('synthetic_data.csv', index=False, sep="\t")
+
+generate_synthetic_data()
